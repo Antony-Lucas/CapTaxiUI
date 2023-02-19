@@ -1,6 +1,6 @@
 # captaxi
 
-<img src="https://user-images.githubusercontent.com/54651622/219909812-e43a48fc-cac5-4cc2-ab4f-1e38fcb3136a.jpeg" width="128"/>
+<img src="https://user-images.githubusercontent.com/54651622/219909812-e43a48fc-cac5-4cc2-ab4f-1e38fcb3136a.jpeg" width="150"/>
 
 ## Getting Started
 
