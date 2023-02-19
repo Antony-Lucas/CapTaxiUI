@@ -1,7 +1,6 @@
 # captaxi
 
-![doggo](![WhatsApp Image 2023-02-18 at 22 37 09](https://user-images.githubusercontent.com/54651622/219909786-4cdbf030-aaf8-458a-a4dd-c7151831fbf2.jpeg)
-)
+<img src="https://user-images.githubusercontent.com/54651622/219909812-e43a48fc-cac5-4cc2-ab4f-1e38fcb3136a.jpeg" width="128"/>
 
 ## Getting Started
 
